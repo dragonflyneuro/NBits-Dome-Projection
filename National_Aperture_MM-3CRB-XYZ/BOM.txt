@@ -1,0 +1,3 @@
+3DX_National_Aperture_Supplier: National Aperture Inc.
+3DX_National_Aperture_Part Number: MM-3CRB-XYZ
+3DX_National_Aperture_Description: MM-3CRB-XYZ (3 axis) 12.7mm Linear Travel Manual Stage
